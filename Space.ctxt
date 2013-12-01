@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space()
+comment1.params=
+comment1.target=greenfoot.GreenfootImage\ getBackground()
+comment2.params=
+comment2.target=Champion\ getChampion()
+comment3.params=
+comment3.target=Enemy\ getEnemiesClass()
+comment4.params=
+comment4.target=greenfoot.GreenfootSound\ getBackgroundSound()
+numComments=5

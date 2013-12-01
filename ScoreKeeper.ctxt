@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreKeeper()
+comment1.params=hitMiss
+comment1.target=void\ update(boolean)
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\r\n\ Returns\ thet\ scores\r\n\ @return\ returns\ the\ score\r\n
+comment3.params=
+comment3.target=void\ updateScore()
+numComments=4

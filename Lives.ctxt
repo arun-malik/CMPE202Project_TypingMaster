@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lives()
+comment1.params=hitMiss
+comment1.target=void\ update(boolean)
+comment2.params=
+comment2.target=boolean\ getGameOver()
+comment3.params=
+comment3.target=int\ getLivesLeft()
+comment4.params=
+comment4.target=void\ reduceLives()
+numComments=5

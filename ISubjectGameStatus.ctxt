@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=observer
+comment0.target=void\ register(IObserveGameStatus)
+comment1.params=observer
+comment1.target=void\ unRegister(IObserveGameStatus)
+comment2.params=hitMiss
+comment2.target=void\ notifyObservers(java.lang.Boolean)
+numComments=3

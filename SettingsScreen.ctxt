@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SettingsScreen()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateText()
+comment2.text=\r\n\ Updates\ the\ text\r\n
+comment3.params=
+comment3.target=void\ enterScene()
+comment4.params=
+comment4.target=void\ exitScene()
+comment5.params=
+comment5.target=java.lang.String\ generateInfoButtonString()
+numComments=6

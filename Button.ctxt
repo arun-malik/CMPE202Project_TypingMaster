@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=Button(greenfoot.GreenfootImage)
+comment1.params=buttonName
+comment1.target=Button(java.lang.String)
+comment2.params=buttonName\ fontColor\ back\ font
+comment2.target=Button(java.lang.String,\ java.awt.Color,\ java.awt.Color,\ java.awt.Font)
+comment3.params=actor
+comment3.target=boolean\ isIntersecting(greenfoot.Actor)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=flag
+comment5.target=void\ setIsButton(boolean)
+comment6.params=
+comment6.target=boolean\ getIsButton()
+numComments=7
