@@ -9,5 +9,7 @@ Design Patterns Implemented :
 4. Strategy Pattern
 
 Game in Action : 
-https://www.youtube.com/watch?v=f62TwFtSzeU
+
+[![Alt text for your video](https://img.youtube.com/vi/f62TwFtSzeU/0.jpg)](https://www.youtube.com/watch?v=f62TwFtSzeU)
+
 
